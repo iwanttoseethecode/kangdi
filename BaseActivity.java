@@ -12,5 +12,7 @@ public class BaseActivity extends Activity{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        int sd =1;
+        int w = 2+1;
     }
 }
